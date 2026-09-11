@@ -78,9 +78,9 @@ In the future, I can add things like:
 * A graphical interface
 
 ##Screenshots:
-### Main Menu:
-! <img width="1156" height="242" alt="image" src="https://github.com/user-attachments/assets/c216796c-acbc-4deb-9420-fc30be1a2939" />
+### Main Menu: 
+<img width="1156" height="242" alt="image" src="https://github.com/user-attachments/assets/c216796c-acbc-4deb-9420-fc30be1a2939" />
 
 ### Gameplay:
-!<img width="1201" height="497" alt="image" src="https://github.com/user-attachments/assets/6dbb8374-8678-475c-9bc7-cc878784202f" />
-!<img width="909" height="145" alt="image" src="https://github.com/user-attachments/assets/8f384ba8-52c1-4551-932d-430d505ff58c" />
+<img width="1201" height="497" alt="image" src="https://github.com/user-attachments/assets/6dbb8374-8678-475c-9bc7-cc878784202f" />
+<img width="909" height="145" alt="image" src="https://github.com/user-attachments/assets/8f384ba8-52c1-4551-932d-430d505ff58c" />
